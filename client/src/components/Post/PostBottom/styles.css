@@ -1,0 +1,29 @@
+.postBottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.postBottomLeft {
+  display: flex;
+  align-items: center;
+}
+
+.likeIcon {
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.postLikeCounter {
+  font-style: 15px;
+}
+
+.postBottomRight {
+}
+
+.postCommentText {
+  cursor: pointer;
+  border-bottom: 1px dashed green;
+}
