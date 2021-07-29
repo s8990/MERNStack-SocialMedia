@@ -6,8 +6,8 @@
 mongoURI = mongodb://127.0.0.1:27017/socialMediaDB
 ```
 
-Back End : [Express](https://expressjs.com/)
-Database : [MongoDB](https://www.mongodb.com/)
+Back End : [Express](https://expressjs.com/)<br />
+Database : [MongoDB](https://www.mongodb.com/)<br />
 
 - [mongoose](https://mongoosejs.com/)
 
